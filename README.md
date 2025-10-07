@@ -1,4 +1,4 @@
-### ⚙️ **High-Impact `README.md` for Your Jupyter Setup Script**
+###INSTALLATION
 
 ````markdown
 # 🧠 Ubuntu Jupyter + VS Code Auto Setup
